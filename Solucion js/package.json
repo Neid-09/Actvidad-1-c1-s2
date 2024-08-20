@@ -1,0 +1,12 @@
+{
+  "name": "solucion-js",
+  "version": "1.0.0",
+  "main": "registroDeDeuda(funcionaConNodemon).js",
+  "scripts": {
+    "test": "nodemon registroDeDeuda(funcionaConNodemon).js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
